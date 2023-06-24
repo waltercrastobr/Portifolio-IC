@@ -1,0 +1,58 @@
+body {
+    color: black;
+    background-color: coral;
+    font-family:Verdana;
+}
+
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+
+header img {
+    width: 160px;
+    height: 160px;
+    border-radius: 20%;
+    border: 5px solid whitesmoke;
+
+}
+
+.center {
+    text-align: center;
+    padding: 20px;
+    
+}
+
+h1 {
+    color:whitesmoke
+}
+
+footer img {
+    width: 40px;
+    height: 20;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+
+}
+
+
+
+
